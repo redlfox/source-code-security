@@ -4,3 +4,5 @@ www.virustotal.com
 https://www.hybrid-analysis.com/
 https://docs.github.com/en/code-security/code-scanning
 https://owasp.org/www-community/Source_Code_Analysis_Tools
+- https://sandboxie-plus.com/downloads/
+- vm
