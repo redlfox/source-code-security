@@ -11,3 +11,7 @@ https://owasp.org/www-community/Source_Code_Analysis_Tools
 ### isolated virtual environment
 - https://sandboxie-plus.com/downloads/
 - vm
+https://github.com/HotCakeX/Harden-Windows-Security
+https://github.com/timb-machine/linux-malware
+https://github.com/mthcht/ThreatIntel-Reports
+mthcht.github.io/ThreatIntel-Reports/
