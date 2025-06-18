@@ -9,6 +9,7 @@ https://www.hybrid-analysis.com/
 https://docs.github.com/en/code-security/code-scanning
 - [Getting started with the CodeQL CLI - GitHub Docs](https://docs.github.com/en/code-security/codeql-cli/getting-started-with-the-codeql-cli)
 https://owasp.org/www-community/Source_Code_Analysis_Tools
+- https://github.com/SigmaHQ/sigma
 ### isolated virtual environment
 - https://sandboxie-plus.com/downloads/
 - vm
