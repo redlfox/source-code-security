@@ -11,7 +11,7 @@ https://docs.github.com/en/code-security/code-scanning
 https://owasp.org/www-community/Source_Code_Analysis_Tools
 - https://github.com/SigmaHQ/sigma
 
-- https://github.blog/news-insights/product-news/the-next-step-for-lgtm-com-github-code-scanning/
+- [The next step for LGTM.com: GitHub code scanning!](https://github.blog/news-insights/product-news/the-next-step-for-lgtm-com-github-code-scanning/)
 ### isolated virtual environment
 - https://sandboxie-plus.com/downloads/
 - vm
